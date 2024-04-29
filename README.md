@@ -1,5 +1,7 @@
-# worlds-worst-image-compression-algorithm
+# World's Worst Image Compression Algorithm (WWICA)
 The world's worst image compression algorithm. All in python!
+
+The compression ratio is about 1:34 for those wondering.
 
 Version log:
 1.0: 2024/04/28
